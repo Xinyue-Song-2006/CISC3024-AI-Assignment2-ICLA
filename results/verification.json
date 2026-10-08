@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "checked_metric_rows": 60,
+  "checked_summary_rows": 12,
+  "checks": [
+    "finite-difference empirical Fisher",
+    "evidence stationary point",
+    "Gaussian logit variance Monte Carlo sanity check",
+    "probability normalization",
+    "independent accuracy/NLL/Brier/ECE/AUROC recalculation",
+    "split and OOD separation",
+    "summary mean and sample SD",
+    "no convergence warnings",
+    "experiment code SHA-256"
+  ]
+}
